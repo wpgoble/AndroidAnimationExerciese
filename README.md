@@ -53,7 +53,7 @@ The source code for this task is in Task5.kt
 Create a list where items animate in with a staggered effect (each item animates slightly after the previous one.) The source code for this task is found in `Task6.kt`
 
 ### Requirements
-* Display a `LazyColumn` with 5 items
+* Display a `LazyColumn` with 8 items
 * Each item should fade in and slide up from below as the list loads
 * Items should appear with a staggered delay(e.g. 100ms between each)
 * use `animateFloatAsState` for alpha value
